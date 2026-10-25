@@ -1,30 +1,17 @@
-= OGC API - Joins - Part 1: Core
+= OGC API - Joins
 :doctype: standard
-:encoding: utf-8
-:lang: en
+:docsubtype: implementation
+:edition: 1.0
+:language: en
 :status: draft
 :committee: technical
-:draft: 3.0
-:external-id: http://www.opengis.net/doc/IS/ogcapi-joins-1/1.0
 :docnumber: 22-026
-:received-date: yyyy-mm-dd
-:issued-date: yyyy-mm-dd
-:published-date: yyyy-mm-dd
-:fullname: Pekka Latvala
-:docsubtype: implementation
-:keywords: ogcdoc, OGC Standard, API, openapi, JSON, HTML, GeoJSON, Joins, data joining
-:submitting-organizations: Finnish Geospatial Research Institute FGI, National Land Survey of Finland.
-:docfile: document.adoc
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
 :mn-document-class: ogc
-:mn-output-extensions: xml,html,doc,pdf
-:local-cache-only:
-:data-uri-image:
-:pdf-uri: ./22-026.pdf
-:edition: 1.0.0
 
-////
-Make sure to complete each included document
-////
 include::clause_0_front_material.adoc[]
 
 include::clause_1_scope.adoc[]

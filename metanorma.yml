@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - sources/core/standard/22-026.adoc
       - metanorma/ogcapi-joins/document.adoc
 
   collection:
