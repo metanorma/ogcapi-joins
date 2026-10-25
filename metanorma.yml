@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - metanorma/ogcapi-joins/document.adoc
+
+  collection:
+    organization: "OGC: The Open Geospatial Consortium"
+    name: "OGC API - Joins (model-based publication)"
